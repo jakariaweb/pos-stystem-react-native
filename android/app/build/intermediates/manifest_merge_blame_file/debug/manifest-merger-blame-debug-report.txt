@@ -1,0 +1,111 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.trooapp"
+4    android:versionCode="1004"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="33" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/Users/zaiyan/Desktop/Pro/troo-app/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Users/zaiyan/Desktop/Pro/troo-app/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/zaiyan/Desktop/Pro/troo-app/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/Users/zaiyan/Desktop/Pro/troo-app/android/app/src/main/AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->[com.facebook.flipper:flipper:0.125.0] /Users/zaiyan/.gradle/caches/transforms-3/fafd183758d3345458ca134509e8f09e/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:5-76
+13-->[com.facebook.flipper:flipper:0.125.0] /Users/zaiyan/.gradle/caches/transforms-3/fafd183758d3345458ca134509e8f09e/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:22-73
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->[:react-native-community_netinfo] /Users/zaiyan/Desktop/Pro/troo-app/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-79
+14-->[:react-native-community_netinfo] /Users/zaiyan/Desktop/Pro/troo-app/node_modules/@react-native-community/netinfo/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-76
+15
+16    <application
+16-->/Users/zaiyan/Desktop/Pro/troo-app/android/app/src/main/AndroidManifest.xml:6:5-32:19
+17        android:name="com.trooapp.MainApplication"
+17-->/Users/zaiyan/Desktop/Pro/troo-app/android/app/src/main/AndroidManifest.xml:7:9-40
+18        android:allowBackup="false"
+18-->/Users/zaiyan/Desktop/Pro/troo-app/android/app/src/main/AndroidManifest.xml:8:9-36
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.7.0] /Users/zaiyan/.gradle/caches/transforms-3/4d75081b3a46de54df7f9175cb62a673/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+20        android:debuggable="true"
+21        android:icon="@mipmap/ic_launcher"
+21-->/Users/zaiyan/Desktop/Pro/troo-app/android/app/src/main/AndroidManifest.xml:9:9-43
+22        android:label="@string/app_name"
+22-->/Users/zaiyan/Desktop/Pro/troo-app/android/app/src/main/AndroidManifest.xml:10:9-41
+23        android:roundIcon="@mipmap/ic_launcher_round"
+23-->/Users/zaiyan/Desktop/Pro/troo-app/android/app/src/main/AndroidManifest.xml:11:9-54
+24        android:theme="@style/SplashTheme"
+24-->/Users/zaiyan/Desktop/Pro/troo-app/android/app/src/main/AndroidManifest.xml:12:9-43
+25        android:usesCleartextTraffic="true" >
+25-->/Users/zaiyan/Desktop/Pro/troo-app/android/app/src/debug/AndroidManifest.xml:8:9-44
+26        <activity
+26-->/Users/zaiyan/Desktop/Pro/troo-app/android/app/src/debug/AndroidManifest.xml:11:9-111
+27            android:name="com.facebook.react.devsupport.DevSettingsActivity"
+27-->/Users/zaiyan/Desktop/Pro/troo-app/android/app/src/debug/AndroidManifest.xml:11:19-83
+28            android:exported="false" />
+28-->/Users/zaiyan/Desktop/Pro/troo-app/android/app/src/debug/AndroidManifest.xml:11:84-108
+29        <activity
+29-->/Users/zaiyan/Desktop/Pro/troo-app/android/app/src/main/AndroidManifest.xml:13:9-22:20
+30            android:name="com.trooapp.SplashActivity"
+30-->/Users/zaiyan/Desktop/Pro/troo-app/android/app/src/main/AndroidManifest.xml:14:13-43
+31            android:exported="true"
+31-->/Users/zaiyan/Desktop/Pro/troo-app/android/app/src/main/AndroidManifest.xml:15:13-36
+32            android:screenOrientation="landscape"
+32-->/Users/zaiyan/Desktop/Pro/troo-app/android/app/src/main/AndroidManifest.xml:17:13-50
+33            android:theme="@style/SplashTheme" >
+33-->/Users/zaiyan/Desktop/Pro/troo-app/android/app/src/main/AndroidManifest.xml:16:13-47
+34            <intent-filter>
+34-->/Users/zaiyan/Desktop/Pro/troo-app/android/app/src/main/AndroidManifest.xml:18:13-21:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->/Users/zaiyan/Desktop/Pro/troo-app/android/app/src/main/AndroidManifest.xml:19:17-69
+35-->/Users/zaiyan/Desktop/Pro/troo-app/android/app/src/main/AndroidManifest.xml:19:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->/Users/zaiyan/Desktop/Pro/troo-app/android/app/src/main/AndroidManifest.xml:20:17-77
+37-->/Users/zaiyan/Desktop/Pro/troo-app/android/app/src/main/AndroidManifest.xml:20:27-74
+38            </intent-filter>
+39        </activity>
+40        <activity
+40-->/Users/zaiyan/Desktop/Pro/troo-app/android/app/src/main/AndroidManifest.xml:23:9-31:20
+41            android:name="com.trooapp.MainActivity"
+41-->/Users/zaiyan/Desktop/Pro/troo-app/android/app/src/main/AndroidManifest.xml:24:13-41
+42            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+42-->/Users/zaiyan/Desktop/Pro/troo-app/android/app/src/main/AndroidManifest.xml:25:13-122
+43            android:exported="true"
+43-->/Users/zaiyan/Desktop/Pro/troo-app/android/app/src/main/AndroidManifest.xml:26:13-36
+44            android:label="@string/app_name"
+44-->/Users/zaiyan/Desktop/Pro/troo-app/android/app/src/main/AndroidManifest.xml:27:13-45
+45            android:launchMode="singleTask"
+45-->/Users/zaiyan/Desktop/Pro/troo-app/android/app/src/main/AndroidManifest.xml:28:13-44
+46            android:screenOrientation="landscape"
+46-->/Users/zaiyan/Desktop/Pro/troo-app/android/app/src/main/AndroidManifest.xml:30:13-50
+47            android:windowSoftInputMode="adjustPan" >
+47-->/Users/zaiyan/Desktop/Pro/troo-app/android/app/src/main/AndroidManifest.xml:29:13-52
+48        </activity>
+49
+50        <provider
+50-->[androidx.emoji2:emoji2:1.0.0] /Users/zaiyan/.gradle/caches/transforms-3/afe90b3e28a9f868df6da608b58dbf88/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+51            android:name="androidx.startup.InitializationProvider"
+51-->[androidx.emoji2:emoji2:1.0.0] /Users/zaiyan/.gradle/caches/transforms-3/afe90b3e28a9f868df6da608b58dbf88/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+52            android:authorities="com.trooapp.androidx-startup"
+52-->[androidx.emoji2:emoji2:1.0.0] /Users/zaiyan/.gradle/caches/transforms-3/afe90b3e28a9f868df6da608b58dbf88/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+53            android:exported="false" >
+53-->[androidx.emoji2:emoji2:1.0.0] /Users/zaiyan/.gradle/caches/transforms-3/afe90b3e28a9f868df6da608b58dbf88/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+54            <meta-data
+54-->[androidx.emoji2:emoji2:1.0.0] /Users/zaiyan/.gradle/caches/transforms-3/afe90b3e28a9f868df6da608b58dbf88/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+55                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+55-->[androidx.emoji2:emoji2:1.0.0] /Users/zaiyan/.gradle/caches/transforms-3/afe90b3e28a9f868df6da608b58dbf88/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+56                android:value="androidx.startup" />
+56-->[androidx.emoji2:emoji2:1.0.0] /Users/zaiyan/.gradle/caches/transforms-3/afe90b3e28a9f868df6da608b58dbf88/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+57            <meta-data
+57-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/zaiyan/.gradle/caches/transforms-3/a5dc8019ed925c8b110cd396be525241/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+58                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+58-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/zaiyan/.gradle/caches/transforms-3/a5dc8019ed925c8b110cd396be525241/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+59                android:value="androidx.startup" />
+59-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/zaiyan/.gradle/caches/transforms-3/a5dc8019ed925c8b110cd396be525241/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+60        </provider>
+61    </application>
+62
+63</manifest>

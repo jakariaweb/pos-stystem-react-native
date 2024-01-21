@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "com.trooapp-merged_res-30:/drawable-mdpi_assets_images_troologo.png.flat",
+        "source": "com.trooapp-main-32:/drawable-mdpi/assets_images_troologo.png"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.trooapp-main-32:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/drawable-mdpi_assets_images_toggleone.png.flat",
+        "source": "com.trooapp-main-32:/drawable-mdpi/assets_images_toggleone.png"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/drawable-mdpi_assets_images_downarrow.png.flat",
+        "source": "com.trooapp-main-32:/drawable-mdpi/assets_images_downarrow.png"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/drawable-mdpi_assets_images_arrowupviolet.png.flat",
+        "source": "com.trooapp-main-32:/drawable-mdpi/assets_images_arrowupviolet.png"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.trooapp-main-32:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.trooapp-main-32:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.trooapp-main-32:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/drawable-mdpi_assets_images_arrowright.png.flat",
+        "source": "com.trooapp-main-32:/drawable-mdpi/assets_images_arrowright.png"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.trooapp-main-32:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.trooapp-main-32:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/drawable-mdpi_assets_images_logout.png.flat",
+        "source": "com.trooapp-main-32:/drawable-mdpi/assets_images_logout.png"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/drawable-mdpi_assets_images_settingsicon.png.flat",
+        "source": "com.trooapp-main-32:/drawable-mdpi/assets_images_settingsicon.png"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/layout_activity_splash.xml.flat",
+        "source": "com.trooapp-main-32:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.trooapp-main-32:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.trooapp-main-32:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.trooapp-main-32:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.trooapp-main-32:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/drawable-mdpi_assets_images_sync.png.flat",
+        "source": "com.trooapp-main-32:/drawable-mdpi/assets_images_sync.png"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.trooapp-main-32:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/drawable-mdpi_assets_images_toggleoff.png.flat",
+        "source": "com.trooapp-main-32:/drawable-mdpi/assets_images_toggleoff.png"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.trooapp-main-32:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/drawable-mdpi_assets_images_arrowdownviolet.png.flat",
+        "source": "com.trooapp-main-32:/drawable-mdpi/assets_images_arrowdownviolet.png"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/drawable-mdpi_assets_images_syncline.png.flat",
+        "source": "com.trooapp-main-32:/drawable-mdpi/assets_images_syncline.png"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/drawable-mdpi_assets_images_profileicon.png.flat",
+        "source": "com.trooapp-main-32:/drawable-mdpi/assets_images_profileicon.png"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.trooapp-main-32:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.trooapp-main-32:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.trooapp-main-32:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/drawable-mdpi_assets_images_cashiermachine.png.flat",
+        "source": "com.trooapp-main-32:/drawable-mdpi/assets_images_cashiermachine.png"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/drawable_splash_bg.png.flat",
+        "source": "com.trooapp-main-32:/drawable/splash_bg.png"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.trooapp-main-32:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.trooapp-main-32:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.trooapp-main-32:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/drawable_logo.png.flat",
+        "source": "com.trooapp-main-32:/drawable/logo.png"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.trooapp-main-32:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/drawable-mdpi_assets_images_firruser.png.flat",
+        "source": "com.trooapp-main-32:/drawable-mdpi/assets_images_firruser.png"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.trooapp-main-32:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/drawable-mdpi_assets_images_searchicon.png.flat",
+        "source": "com.trooapp-main-32:/drawable-mdpi/assets_images_searchicon.png"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/drawable-mdpi_assets_images_uparrow.png.flat",
+        "source": "com.trooapp-main-32:/drawable-mdpi/assets_images_uparrow.png"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.trooapp-main-32:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.trooapp-main-32:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.trooapp-main-32:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.trooapp-merged_res-30:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.trooapp-main-32:/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]
